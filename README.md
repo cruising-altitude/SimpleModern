@@ -18,6 +18,10 @@ Screenshots are available.
 
 Download *SimpleModern-Tablet_PowerApp.zip* and import it to a Power Platform environment as a new canvas app. Then, follow further instructions on MainScreen.
 
+## Change log
+
++ v1.0.0 (2024-10-28): Initial release
+
 ## What's on the roadmap
 
 + Support for second-level menu items
