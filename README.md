@@ -9,7 +9,7 @@ SimpleModern-Tablet is a canvas Power App in the tablet form factor, designed to
 + A screen-specific menu structure that can be collapsed for more screen real estate
 + Any number of items in the menu (although a maximum of 6 or 7 per screen is recommended)
 + Full use of the user's screen real estate with no letterboxing or wasted space
-+ Support for modern themes
++ Built for modern themes
 + Support for Microsoft 365-style modal dialogues
 
 Screenshots are available.
@@ -17,3 +17,9 @@ Screenshots are available.
 ## Instructions
 
 Download *SimpleModern-Tablet_PowerApp.zip* and import it to a Power Platform environment as a new canvas app. Then, follow further instructions on MainScreen.
+
+## What's on the roadmap
+
++ Support for second-level menu items
++ Support for dark mode
++ A version for the phone form factor
