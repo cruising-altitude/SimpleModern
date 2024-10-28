@@ -1,6 +1,6 @@
 # SimpleModern Canvas App Starter Kit
 
-SimpleModern-Tablet is a canvas Power App in the tablet form factor, designed to serve as a highly reusable starting point that reduces user-interface construction overheads.
+SimpleModern-Tablet is a barebone canvas Power App in the tablet form factor, designed to serve as a highly reusable starting point that minimises the ad-hoc nature of user-interface construction overheads.
 
 ## Highlights
 
@@ -22,4 +22,4 @@ Download *SimpleModern-Tablet_PowerApp.zip* and import it to a Power Platform en
 
 + Support for second-level menu items
 + Support for dark mode
-+ A version for the phone form factor
++ A version for the mobile phone form factor
