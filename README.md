@@ -23,7 +23,7 @@ Download *SimpleModern-Tablet_PowerApp.zip* and import it to a Power Platform en
 ## Change log
 
 + v1.0.4 (2024-11-03): Added a repeatable example of rendering tabular data, complete with search and pagination functions.
-+ v1.0.3 (2024-11-02): Alignment/positioning/spacing fixes and adjustments.
++ v1.0.3 (2024-11-02): Alignment/positioning/spacing fixes and adjustments
 + v1.0.2 (2024-11-02): Added a sample gallery, together with sortable column headers, to make presenting tabular data easy.
 + v1.0.1 (2024-11-01): Removed border colours in rectangle controls.
 + v1.0.0 (2024-10-28): Initial release
