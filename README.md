@@ -6,7 +6,7 @@ For context, read [this article](https://jkflipflop.medium.com/2a474ffefb11).
 
 ## Highlights
 
-+ An uncluttered look and feel for effective delivery of content, nspired by the design language found in the Microsoft 365 back-end admin functions
++ An uncluttered look and feel for effective delivery of content, inspired by the Microsoft 365 back-end admin functions
 + A screen-specific menu structure that can be collapsed and expanded on demand
 + Any number of items in the menu (although a maximum of 6 or 7 per screen is recommended)
 + Full use of the user's screen real estate with no letterboxing or wasted space
