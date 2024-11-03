@@ -22,6 +22,7 @@ Download *SimpleModern-Tablet.zip* and import it to a Power Platform environment
 
 ## Change log
 
++ v1.0.6 (2024-11-03): Simplified UI constants for more consistent application of attributes.
 + v1.0.5 (2024-11-03): Fixed a big in pagination reset logic; grouped tabular data controls together for portability.
 + v1.0.4 (2024-11-03): Added a repeatable example of rendering tabular data, complete with search and pagination functions.
 + v1.0.3 (2024-11-02): Alignment/positioning/spacing fixes and adjustments
