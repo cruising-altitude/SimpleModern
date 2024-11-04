@@ -22,12 +22,12 @@ Download *SimpleModern-Tablet.zip* and import it to a Power Platform environment
 
 ## Change log
 
-+ v1.0.7 (2024-11-04): Improved the repeatable search function on tabular data with modern controls and visual cues where results follow keypresses in the search box whose trigger output is set to Delayed.
++ v1.0.7 (2024-11-04): Improved the repeatable search function on tabular data with modern controls and visual cues where results follow keypresses in the search box whose output trigger is set to Delayed.
 + v1.0.6 (2024-11-03):
   + Simplified UI constants for more consistent application of attributes.
   + Added a repeatable example of rendering tabular data, complete with search and pagination functions.
   + Alignment/positioning/spacing fixes and adjustments
-+ v1.0.1 (2024-11-01): Removed border colours in rectangle controls.
++ v1.0.1 (2024-11-01): Removed redundant border colours in rectangle controls.
 + v1.0.0 (2024-10-28): Initial release
 
 ## What's on the roadmap
