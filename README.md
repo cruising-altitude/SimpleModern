@@ -22,7 +22,7 @@ Download *SimpleModern-Tablet.zip* and import it to a Power Platform environment
 
 ## Change log
 
-+ v1.0.8 (2024-11-05): Miscellaneous usability and portability improvements
++ v1.0.9 (2024-11-06): Miscellaneous usability and portability improvements
 + v1.0.7 (2024-11-04): Improved the repeatable search function on tabular data with modern controls and visual cues where results follow keypresses in the search box whose output trigger is set to Delayed.
 + v1.0.6 (2024-11-03):
   + Simplified UI constants for more consistent application of attributes.
