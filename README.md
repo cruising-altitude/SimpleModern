@@ -18,7 +18,7 @@ Screenshots are available.
 
 ## Instructions
 
-Download *SimpleModern-Tablet.zip* and import it to a Power Platform environment as a new canvas app. Then, follow further instructions on MainScreen.
+Download *SimpleModern-Starter.zip* and import it to a Power Platform environment as a new canvas app. Then, follow further instructions on MainScreen.
 
 ## Change log
 
