@@ -22,7 +22,7 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 ## Change log
 
-+ 1.1 (2024-11.15): Menu items have been globalised to make it easy for the app to implement menu structure across multiple screens. Based on the single source of truth, individual screens can still render only the menu items that are applicable.
++ 1.1 (2024-11.15): Menu items have been globalised to make it easy for the app to implement a consistent menu structure or its variations across multiple screens. Based on the single source of truth, individual screens can still render only the menu items that are applicable.
 + v1.0.9 (2024-11-06): Miscellaneous usability and portability improvements
 + v1.0.7 (2024-11-04): Improved the repeatable search function on tabular data with modern controls and visual cues where results follow keypresses in the search box whose output trigger is set to Delayed.
 + v1.0.6 (2024-11-03):
