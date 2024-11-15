@@ -22,6 +22,7 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 ## Change log
 
++ 1.1 (2024-11.15): Menu items have been globalised to make it easy for the app to implement menu structure across multiple screens. Individual screens can still render only the menu items that are applicable.
 + v1.0.9 (2024-11-06): Miscellaneous usability and portability improvements
 + v1.0.7 (2024-11-04): Improved the repeatable search function on tabular data with modern controls and visual cues where results follow keypresses in the search box whose output trigger is set to Delayed.
 + v1.0.6 (2024-11-03):
@@ -35,4 +36,4 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 + Support for second-level menu items
 + Support for dark mode
-+ A version for the mobile phone form factor
++ A version for the mobile phone form factor? This remains to be seen as the tablet version runs largely fine on a mobile device.
