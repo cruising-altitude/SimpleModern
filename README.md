@@ -22,6 +22,9 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 ## Change log
 
++ 1.1.4 (2024-11-23):
+  + Added styled example combobox, dropdown, checkbox, radio, and toggle controls for quick templating.
+  + Miscellaneous usability and portability improvements
 + 1.1.3 (2024-11-20): Better consistency and succinctness in variable names; navigating to RoutingScreen for user-initiated resets and restarts now correctly redirects the user to the app's default fallback menu item, plus room for implementing custom routing logic.
 + 1.1.2 (2024.11-18): In App.OnStart, there is an on/off flag for an explicit exit-app button (vApp.EnableExitButton), which may improve usability when launching the app on a handheld device.
 + 1.1 (2024-11.15): Menu items have been globalised to make it easy for the app to implement a consistent menu structure or its variations across multiple screens. Based on the single source of truth, each individual screen can render just the menu items that are applicable to it.
