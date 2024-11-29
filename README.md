@@ -22,6 +22,7 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 ## Change log
 
++ 1.1.5 (2024-11-30): More usability and user-interface fine-tuning
 + 1.1.4 (2024-11-23):
   + Added styled example combobox, dropdown, checkbox, radio, and toggle controls for quick templating.
   + Miscellaneous usability and portability improvements
