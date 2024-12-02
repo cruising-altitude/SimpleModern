@@ -22,7 +22,7 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 ## Change log
 
-+ 1.1.6 (2024-12-02): Further usability fine-tuning, particularly the AccessibleLabel and DisplayMode behaviours of controls
++ 1.1.6 (2024-12-02): Further usability fine-tuning, particularly around the AccessibleLabel and DisplayMode behaviours of controls for consistency
 + 1.1.5 (2024-11-30): More usability fine-tuning
 + 1.1.4 (2024-11-23):
   + Added styled example combobox, dropdown, checkbox, radio, and toggle controls for quick templating.
