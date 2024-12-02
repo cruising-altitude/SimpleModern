@@ -2,7 +2,7 @@
 
 SimpleModern-Tablet is a barebone canvas Power App in the tablet form factor, designed to serve as a highly reusable starting point that minimises the ad-hoc nature of user-interface construction overheads.
 
-For context, read [this article](https://jkflipflop.medium.com/2a474ffefb11).
+For context, read [this article](https://jkflipflop.medium.com/2a474ffefb11) then [this article](https://jkflipflop.medium.com/05b15ac5c225).
 
 ## Highlights
 
