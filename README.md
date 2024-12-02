@@ -1,4 +1,4 @@
-# SimpleModern Canvas App Starter Kit
+# SimpleModern Starter Kit (SMSK)
 
 SimpleModern-Tablet is a barebone canvas Power App in the tablet form factor, designed to serve as a highly reusable starting point that minimises the ad-hoc nature of user-interface construction overheads.
 
