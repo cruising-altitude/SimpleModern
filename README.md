@@ -22,6 +22,7 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 ## Change log
 
++ 1.1.9 (2024-12-12): Tabular data previous/next page navigation functions now prevent rage clicks.
 + 1.1.8 (2024-12-11): Further usability and UI fine-tuning
 + 1.1.7 (2024-12-03):
   + Fixed the bug where pagination parameters could be set incorrectly upon user-supplied keyword search.
