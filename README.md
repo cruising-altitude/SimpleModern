@@ -22,6 +22,7 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 ## Change log
 
++ 1.1.10 (2025-01-18): Explicitly set the VerticalAlign property of pagination text controls to "Middle" for alignment with other UI elements. The default VerticalAlign behaviour of modern text controls, unless explicitly set, appears to have changed from Middle to Top. No other changes or fixes.
 + 1.1.9 (2024-12-12): Tabular data previous/next page navigation functions now prevent rage clicks.
 + 1.1.8 (2024-12-11): Further usability and UI fine-tuning
 + 1.1.7 (2024-12-03):
