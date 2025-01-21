@@ -22,6 +22,9 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 ## Change log
 
++ 1.1.11 (2025-01-21):
+  + Clicking on the primary button inside a modal gives a clear "Processing..." indication while processing whatever it is instructed to fulfil. This is a critical UI provision as most CRUD operations take place in a modal. The message can be customised or be made blank depending on the nature of the modal.
+  + Given the increasing adoption of ultrawide monitors, there is now a convenient way to set the maximum content width in order to prevent content from uncontrollably stretching across the entire screen, thereby ensuring a better-composed look. In App.OnStart, two new UI constants handle this behaviour: ui.CanvasWidth (integer) and ui.ForceFullScreenWidth (boolean).
 + 1.1.10 (2025-01-18): Explicitly set the VerticalAlign property of pagination text controls to "Middle" for alignment with other UI elements. The default VerticalAlign behaviour of modern text controls, unless explicitly set, appears to have changed from Middle to Top. No other changes or fixes.
 + 1.1.9 (2024-12-12): Tabular data previous/next page navigation functions now prevent rage clicks.
 + 1.1.8 (2024-12-11): Further usability and UI fine-tuning
