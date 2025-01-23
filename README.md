@@ -22,6 +22,7 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 ## Change log
 
++ 1.1.12 (2025-01-23): Minor positioning errors corrected, following the last round of updates
 + 1.1.11 (2025-01-21):
   + Clicking on the primary button inside a modal gives a clear "Processing..." indication while processing whatever it is instructed to fulfil. This is a critical UI provision as most CRUD operations take place in a modal. The message can be customised or be made blank depending on the nature of the modal.
   + Given the increasing adoption of ultrawide monitors, there is now a convenient way to set the maximum content width in order to prevent content from uncontrollably stretching across the entire screen, thereby ensuring a better-composed look. In App.OnStart, two new UI constants handle this behaviour: ui.CanvasWidth (integer) and ui.ForceFullScreenWidth (boolean).
@@ -47,9 +48,3 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
   + Alignment/positioning/spacing fixes and adjustments
 + v1.0.1 (2024-11-01): Removed redundant border colours in rectangle controls.
 + v1.0.0 (2024-10-28): Initial release
-
-## What's on the roadmap
-
-+ Support for second-level menu items
-+ Support for dark mode
-+ A version for the mobile phone form factor? This remains to be seen as the tablet version runs largely fine on a mobile device.
