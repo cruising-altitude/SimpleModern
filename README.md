@@ -22,6 +22,7 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 ## Change log
 
++ 1.1.13 (2025-02-13): The OnSelect logic in the left menu kicks in only when the user chooses to navigate to a different menu item, that is, one that is not currently selected. Clicking on the currently selected menu item again results in absolutely no action, thereby preventing multiple executions of menu item-specific initialisation.
 + 1.1.12 (2025-01-23): Minor positioning errors corrected, following the last round of updates
 + 1.1.11 (2025-01-21):
   + Clicking on the primary button inside a modal gives a clear "Processing..." indication while processing whatever it is instructed to fulfil. This is a critical UI provision as most user-initiated CRUD operations take place in a modal. The message can be customised or be made blank depending on the nature of the modal.
