@@ -22,6 +22,7 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 ## Change log
 
++ 1.1.14 (2025-02-14): Minor attribute fine-tuning to enhance the usability of gallery controls
 + 1.1.13 (2025-02-13): The OnSelect logic in the left menu kicks in only when the user chooses to navigate to a different menu item, that is, one that is not currently selected. Clicking on the currently selected menu item again results in absolutely no action, thereby preventing multiple executions of menu item-specific initialisation.
 + 1.1.12 (2025-01-23): Minor positioning errors corrected, following the last round of updates
 + 1.1.11 (2025-01-21):
