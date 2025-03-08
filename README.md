@@ -23,7 +23,7 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 ## Change log
 
 + 1.1.17 (2025-03-08):
-  + Each modal now has user input validation built in, which utilises a local string variable called xValidation. Admittedly, each developer decides how input validation is performed in their UI. But since input validation is implemented in almost all forms, it makes sense to put a suggested starting point in the template.
+  + Each modal now has plubming for user input validation built in, which utilises a local string variable called xValidation. Admittedly, each developer decides how input validation is performed in their UI. But since input validation is implemented in almost all forms, it makes sense to put a suggested starting point in the template.
   + Miscellaneous usability fixes and enhancements
 + 1.1.16 (2025-03-04): Support for more versatile use of vSystemCode (see App.OnStart and MainScreen.OnVisible)
 + 1.1.15 (2025-03-04): Moved the configuration check routine to MainScreen.OnVisible for easier edits.
