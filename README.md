@@ -22,6 +22,7 @@ Download *SimpleModern-Starter.zip* and import it to a Power Platform environmen
 
 ## Change log
 
++ 1.1.18 (2025-04-25): Better built-in flexibility to dictate app-by-app default expanded/collapsed state of the left menu through UI variables
 + 1.1.17 (2025-03-08):
   + Each modal now has plubming for user input validation built in, which utilises a local string variable called xValidation. Admittedly, each developer decides how input validation is performed in their UI. But since input validation is implemented in almost all forms, it makes sense to put a suggested starting point in the template.
   + Miscellaneous usability fixes and enhancements
